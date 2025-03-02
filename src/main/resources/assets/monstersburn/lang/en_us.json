@@ -1,0 +1,8 @@
+{
+  "text.autoconfig.monstersburn.title": "Monsters Burn",
+  "text.autoconfig.monstersburn.option.general": "General",
+  "text.autoconfig.monstersburn.option.general.isOnSurfaceMobAlwaysBurned": "Should mobs always burn on the surface",
+  "text.autoconfig.monstersburn.option.general.isMonsterLootDropEnabled": "Should mobs drop loot on death",
+  "text.autoconfig.monstersburn.option.general.isDimensionsWhitelist": "Is dimensions a whitelist or blacklist",
+  "text.autoconfig.monstersburn.option.general.dimensions": "Dimensions that are whitelisted or blacklisted"
+}

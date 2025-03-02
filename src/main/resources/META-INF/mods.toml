@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="MIT"
+#issueTrackerURL="https://change.me.to.your.issue.tracker.example.invalid/" #optional
+[[mods]]
+modId="monstersburn"
+version="${file.jarVersion}"
+displayName="Monsters Burn"
+logoFile="logo.png" #optional
+authors="" #optional
+description='''
+todo
+'''
+[[dependencies.monstersburn]]
+    modId="forge"
+    mandatory=true
+    versionRange="[40,)"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.monstersburn]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1,1.20.2)"
+    ordering="AFTER"
+    side="BOTH"
